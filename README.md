@@ -1,0 +1,1 @@
+# themes-accesspress-parallax
